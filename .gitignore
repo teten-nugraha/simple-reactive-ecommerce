@@ -1,0 +1,8 @@
+.idea
+
+order-service/target/
+order-service/.mvn/
+order-service/mvnw
+order-service/mvnw.cmd
+order-service//src/main/**/target/
+order-service//src/test/**/target/
